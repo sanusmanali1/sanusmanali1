@@ -1,15 +1,23 @@
-More than 4 years of extensive experience in Web Application Development using PHP & Python. And keep myself dynamic, a continuous learner, visionary and competitive with the emerging web technologies and web design scenarios. I have developed simple to complex types of applications. Expert in both Front-end & Back-end web development.
+With over 9 years of extensive experience in web application development using PHP and data engineering using Python and PySpark, I have worked with leading data-focused organizations such as Nowasays and Anteriad. I am a dynamic and continuous learner, passionate about staying ahead in the evolving world of big data, cloud technologies, and full-stack development.
 
-Key Areas:
+I have successfully developed a wide range of applications, from simple tools to complex, large-scale systems. My expertise spans Big Data technologies as well as both front-end and back-end web development.
 
-✔ Technology Expertise (Python, Django, PHP, Laravel, CodeIgniter, PHP Unit Testing, YII, WordPress, Rest API's, Vue.js)
+Key Areas of Expertise
 
-✔ Databases (MySql, MongoDB)
+✔ Programming Languages and Frameworks: Python, PySpark, Pandas, Django, PHP, Laravel, CodeIgniter, Vue.js
 
-✔ Domains (B2B, B2C, C2C, Mobile, Health Care, Industrial Automation)
+✔ Big Data and Workflow Orchestration: Apache Airflow, DAGs, AWS Glue, EMR
 
-✔ Payment Gateway (PayPal, Network international payment, Bambora Payment Gateway, Stripe Payment Gateway)
+✔ Cloud Services: AWS (S3, EC2, EMR, Lambda)
 
-✔ Online Stores: eBay store design and development.
+✔ Database Systems: MySQL, PostgreSQL, MongoDB
 
-✔ Template languages XML data formats, JSON / JSONP.
+✔ RESTful API Development: Design and integration of secure and scalable APIs
+
+✔ Payment Gateway Integration: PayPal, Stripe, Bambora, Network International
+
+✔ E-commerce: eBay store design and development
+
+✔ Data Formats and Web Standards: JSON, JSONP, XML, HTML, CSS
+
+I thrive in collaborative environments and take pride in solving challenging problems using scalable and efficient architecture.
